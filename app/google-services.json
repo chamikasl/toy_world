@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525666594141",
+    "project_id": "toy-world-26796",
+    "storage_bucket": "toy-world-26796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525666594141:android:31417bf8d01108d2c24cb4",
+        "android_client_info": {
+          "package_name": "com.icbt.toy_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlQVMCtY1Af8OHUKWBJBe0fQ0vGVYc6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
